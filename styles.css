@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+h6 {color: white;}
+
+p { font-family: "Abel", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    ;}
+
+td { font-family: "Abel", sans-serif;
+font-weight: 400;
+font-style: normal; 
+    ;}
+
+h2 {
+    color: #1a9124;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
